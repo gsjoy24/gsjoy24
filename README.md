@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gour Chandra Saha</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="40" height="40">
+</picture>, I'm Gour Chandra Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsjoy24&label=Profile%20views&color=0e75b6&style=flat" alt="gsjoy24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" align='right' width='400'>
+
+
 
 - 🌱 I’m currently learning **Next.js, Three.js,**
 
@@ -20,6 +28,7 @@
 <a href="https://fb.com/gsjoy24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsjoy24" height="30" width="40" /></a>
 <a href="https://instagram.com/gsjoy24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gsjoy24" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@dev.codewithjoy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with joy" height="30" width="40" /></a>
+<img title='+8801772528866' align="center" src="https://www.svgrepo.com/show/382712/whatsapp-whats-app.svg" alt="code with joy || +8801772528866" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
