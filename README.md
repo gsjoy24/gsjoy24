@@ -13,13 +13,13 @@
 
 
 
-- 🌱 I’m currently learning **Next.js, Three.js,**
+- 🌱 I’m currently learning **Next.js and Three.js**
 
-- 👨‍💻 All of my projects are available at [gour.joy.web.app](gour.joy.web.app)
+- 👨‍💻 All of my projects are available at <a href="https://gour-chandra-saha.web.app" target="_blank">my portfolio</a>
 
 - 💬 Ask me about **Javascript, React**
 
-- 📫 How to reach me **gour.joy24@gmail.com**
+- 📫 Reach me at **gour.joy24@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UDytH0mWuHJqkf9AvmGxTcWc3yXTQaBF/view?usp=drive_link)
 
