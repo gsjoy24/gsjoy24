@@ -2,7 +2,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="40" height="40">
 </picture>, I'm Gour Chandra Saha</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsjoy24&label=Profile%20views&color=0e75b6&style=flat" alt="gsjoy24" /> </p>
@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js and Three.js**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 👨‍💻 All of my projects are available at <a href="https://gour-chandra-saha.web.app" target="_blank">my portfolio</a>
 
@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **gour.joy24@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UDytH0mWuHJqkf9AvmGxTcWc3yXTQaBF/view?usp=drive_link)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1UDytH0mWuHJqkf9AvmGxTcWc3yXTQaBF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
