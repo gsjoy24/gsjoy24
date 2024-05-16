@@ -216,15 +216,16 @@
   </p>
 >
 
+<p align="left">
 <h3 align="left">My Gitroll:</h3>
     <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"
      ><img
       src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3"
       width="350"
       alt="GitRoll Profile Badge"
-    /></a>
+    /></a></p>
 
-  <h3 align="left">Top Languages:</h3>
+<p align='right'>  <h3 align="left">Top Languages:</h3>
     <p align="left">
      <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&layout=compact&theme=radical"
@@ -232,7 +233,7 @@
       alt="gsjoy24"
      />
     </p>
-
+</p>
   <h3 align="left">GitHub Trophies:</h3>
   <p align="left">
    <img src="https://github-profile-trophy.vercel.app/?username=gsjoy24&theme=radical" alt="gsjoy24" />
