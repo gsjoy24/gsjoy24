@@ -3,6 +3,14 @@
  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+   .flex {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+   }
+  </style>
  </head>
  <body>
   <h1 align="center">
@@ -37,7 +45,9 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
    <a href="https://linkedin.com/in/gour-chandra-saha" target="blank"
-    ><img src="https://img.shields.io/linkedin/follow/?logo=linkedin&style=for-the-badge" alt=""
+    ><img
+     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt=""
    /></a>
    <a href="https://twitter.com/gour_chandra_s" target="blank"
     ><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""
@@ -167,17 +177,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=gsjoy24&theme=radical" alt="gsjoy24" />
   </p>
 
-  <h3 align="left">GitHub Contribution Graph:</h3>
-  <p align="left">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsjoy24&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true alt="gsjoy24" />
-  </p>
-
-  <h3 align="left">GitHub Profile Summary:</h3>
-  <p align="left">
-   <img src="https://profile-summary-for-github.com/user/gsjoy24" alt="gsjoy24" />
-  </p>
-
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px">
+  <div class="flex">
    <div>
     <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"
      ><img
@@ -196,7 +196,7 @@
    </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px">
+  <div class="flex">
    <div>
     <p>
      &nbsp;<img
