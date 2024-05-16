@@ -4,14 +4,11 @@
 </picture>, I'm Gour Chandra Saha</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsjoy24&label=Profile%20views&color=0e75b6&style=flat" alt="gsjoy24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" align='right' width='400'>
-
-
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
@@ -19,7 +16,7 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- 📫 Reach me at **gour.joy24@gmail.com**
+- 📫 Reach me at **<gour.joy24@gmail.com>**
 
 - 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1UDytH0mWuHJqkf9AvmGxTcWc3yXTQaBF/view?usp=drive_link)
 
@@ -39,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsjoy24&show_icons=true&locale=en" alt="gsjoy24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&" alt="gsjoy24" /></p>
+
+<a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" alt="GitRoll Profile Badge"/></a>
