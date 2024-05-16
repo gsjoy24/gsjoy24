@@ -214,7 +214,6 @@
     alt="gsjoy24"
    />
   </p>
->
 
 <p align="left">
 <h3 align="left">My Gitroll:</h3>
