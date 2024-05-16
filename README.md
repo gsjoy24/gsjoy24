@@ -3,14 +3,6 @@
  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <style>
-   .flex {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-bottom: 15px;
-   }
-  </style>
  </head>
  <body>
   <h1 align="center">
@@ -151,66 +143,49 @@
    </a>
   </p>
 
-  <h3 align="left">GitHub Stats:</h3>
-  <p align="left">
-   <img
-    src="https://github-readme-stats.vercel.app/api?username=gsjoy24&show_icons=true&theme=radical"
-    alt="gsjoy24"
-   />
-  </p>
-
-  <h3 align="left">Top Languages:</h3>
-  <p align="left">
-   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&layout=compact&theme=radical"
-    alt="gsjoy24"
-   />
-  </p>
-
-  <h3 align="left">GitHub Streak:</h3>
-  <p align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&theme=radical" alt="gsjoy24" />
-  </p>
-
-  <h3 align="left">GitHub Trophies:</h3>
-  <p align="left">
-   <img src="https://github-profile-trophy.vercel.app/?username=gsjoy24&theme=radical" alt="gsjoy24" />
-  </p>
-
-  <div class="flex">
+  <div style="display: flex; align-items: center; gap: 15px">
    <div>
-    <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"
-     ><img
-      src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3"
-      width="350"
-      alt="GitRoll Profile Badge"
-    /></a>
-   </div>
-
-   <div>
-    <img
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=gsjoy24&show_icons=true&locale=en&layout=compact"
-     alt="gsjoy24"
-     width="350"
-    />
-   </div>
-  </div>
-
-  <div class="flex">
-   <div>
-    <p>
-     &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=gsjoy24&show_icons=true&locale=en"
+    <h3 align="left">GitHub Stats:</h3>
+    <p align="left">
+     <img
+      src="https://github-readme-stats.vercel.app/api?username=gsjoy24&show_icons=true&theme=radical"
       alt="gsjoy24"
      />
     </p>
    </div>
    <div>
-    <p>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&" alt="gsjoy24" />
+    <h3 align="left">Top Languages:</h3>
+    <p align="left">
+     <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&layout=compact&theme=radical"
+      alt="gsjoy24"
+     />
     </p>
    </div>
   </div>
+
+  <div style="display: flex; align-items: center; gap: 15px">
+   <div>
+    <h3 align="left">GitHub Streak:</h3>
+    <p align="left">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&theme=radical" alt="gsjoy24" />
+    </p>
+   </div>
+   <div>
+    <div>
+     <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"
+      ><img
+       src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3"
+       width="350"
+       alt="GitRoll Profile Badge"
+     /></a>
+    </div>
+   </div>
+  </div>
+
+  <h3 align="left">GitHub Trophies:</h3>
+  <p align="left">
+   <img src="https://github-profile-trophy.vercel.app/?username=gsjoy24&theme=radical" alt="gsjoy24" />
+  </p>
  </body>
 </html>
