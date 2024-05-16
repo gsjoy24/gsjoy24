@@ -222,9 +222,9 @@
       src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3"
       width="350"
       alt="GitRoll Profile Badge"
-    /></a></p>
-
-<p align='right'>  <h3 align="left">Top Languages:</h3>
+    /></a>
+  
+ <h3 align="left">Top Languages:</h3>
     <p align="left">
      <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&layout=compact&theme=radical"
