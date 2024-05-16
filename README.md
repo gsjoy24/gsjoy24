@@ -35,6 +35,7 @@
   <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" align="right" width="400" />
 
 <h3 align="left">Connect with me:</h3>
+
   <p align="left">
    <a href="https://linkedin.com/in/goursahajoy" target="blank"
     ><img
@@ -42,6 +43,7 @@
      alt=""
    /></a>
 <p>
+
 <a href="https://instagram.com/goursahajoy" target="blank"
     ><img
      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -57,6 +59,7 @@
      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
      alt=""
    /></a>
+
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -93,7 +96,7 @@
    </a>
    <a href="https://ui.shadcn.com/" target="_blank">
     <img
-     src=" https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
+     src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
      alt="shadcn"
     />
    </a>
@@ -105,7 +108,7 @@
    </a>
    <a href="https://firebase.google.com/" target="_blank">
     <img
-     src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
+     src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
      alt="firebase"
     />
    </a>
@@ -117,7 +120,7 @@
    </a>
    <a href="https://nextjs.org/" target="_blank">
     <img
-     src=" https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+     src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
      alt="nextJs"
     />
    </a>
@@ -201,22 +204,10 @@
    </a>
   </p>
 
-<h3 align="left">Top Languages:</h3>
-    <p align="left">
-     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&layout=compact&theme=radical"
-      width="350"
-      alt="gsjoy24"
-     />
-    </p>
-  
-<h3 align="left">My Gitroll:</h3>
-    <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"
-     ><img
-      src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3"
-      width="350"
-      alt="GitRoll Profile Badge"
-    /></a>
+  <h3 align="left">GitHub Streak:</h3>
+  <p align="left">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&theme=radical" alt="gsjoy24" />
+  </p
 
   <h3 align="left">GitHub Stats:</h3>
   <p align="left">
@@ -225,11 +216,24 @@
     alt="gsjoy24"
    />
   </p>
+>
 
-  <h3 align="left">GitHub Streak:</h3>
-  <p align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&theme=radical" alt="gsjoy24" />
-  </p>
+<h3 align="left">My Gitroll:</h3>
+    <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"
+     ><img
+      src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3"
+      width="350"
+      alt="GitRoll Profile Badge"
+    /></a>
+
+  <h3 align="left">Top Languages:</h3>
+    <p align="left">
+     <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&layout=compact&theme=radical"
+      width="350"
+      alt="gsjoy24"
+     />
+    </p>
 
   <h3 align="left">GitHub Trophies:</h3>
   <p align="left">
