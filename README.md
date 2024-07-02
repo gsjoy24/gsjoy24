@@ -67,7 +67,7 @@
    <a href="https://sass-lang.com/" target="_blank">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
    </a>
-   <a href="" target="_blank">
+   <a href="https://getbootstrap.com/" target="_blank">
     <img
      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
      alt="Bootstrap"
@@ -77,6 +77,12 @@
     <img
      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
      alt="Tailwind_CSS"
+    />
+   </a>
+   <a href="https://mui.com/" target="_blank">
+    <img
+     src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
+     alt="MATERIAL UI"
     />
    </a>
    <a href="https://ant.design/" target="_blank">
@@ -115,6 +121,12 @@
      alt="nextJs"
     />
    </a>
+   <a href="https://jestjs.io/" target="_blank">
+    <img
+     src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"
+     alt="nextJs"
+    />
+   </a>
    <a href="https://nodejs.org" target="_blank">
     <img
      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
@@ -137,6 +149,18 @@
     <img
      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
      alt="postgresql"
+    />
+   </a>
+   <a href="https://prisma.io/" target="_blank">
+    <img
+     src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
+     alt="Prisma"
+    />
+   </a>
+   <a href="https://graphql.org/" target="_blank">
+    <img
+     src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+     alt="graphql"
     />
    </a>
    <a href="https://jwt.io/" target="_blank">
@@ -201,7 +225,7 @@
   </p
 
   <h3 align="left">GitHub Stats:</h3>
-  
+
   <p align="left">
    <img
     src="https://github-readme-stats.vercel.app/api?username=gsjoy24&show_icons=true&theme=radical"
