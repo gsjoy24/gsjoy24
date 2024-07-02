@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
- <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
- </head>
- <body>
   <h1 align="center">
    Hi
    <picture>
@@ -17,7 +10,7 @@
     /> </picture
    >, I'm Gour Chandra Saha
   </h1>
-  <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+  <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
   <p align="left">
    <img
@@ -208,6 +201,7 @@
   </p
 
   <h3 align="left">GitHub Stats:</h3>
+  
   <p align="left">
    <img
     src="https://github-readme-stats.vercel.app/api?username=gsjoy24&show_icons=true&theme=radical"
@@ -233,9 +227,3 @@
      />
     </p>
 </p>
-  <h3 align="left">GitHub Trophies:</h3>
-  <p align="left">
-   <img src="https://github-profile-trophy.vercel.app/?username=gsjoy24&theme=radical" alt="gsjoy24" />
-  </p>
- </body>
-</html>
