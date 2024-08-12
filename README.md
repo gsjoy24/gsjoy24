@@ -235,7 +235,7 @@
 
 <p align="left">
 <h3 align="left">My Gitroll:</h3>
-<a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" width='300'  alt="GitRoll Profile Badge"/></a>
 
  <h3 align="left">Top Languages:</h3>
     <p align="left">
