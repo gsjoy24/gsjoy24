@@ -1,5 +1,5 @@
   <h1 align="center">
-   Hi
+   Hey
    <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp" />
     <img
