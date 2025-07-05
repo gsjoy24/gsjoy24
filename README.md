@@ -62,7 +62,7 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & DevOps</b></summary>
 <br>
 <p>
@@ -96,7 +96,7 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
         <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
       </td>
       <td>
-        <h3>Team Lead at AIC</h3>
+        <h3>Full-Stack Developer at AIC</h3>
         <p><b>Chattogram, Bangladesh</b></p>
         <p>Led a development team working on client projects and internal tools. Managed project workflows, conducted code reviews, and mentored junior developers.</p>
         <p><i>Skills: Team Leadership, Project Management, Full-Stack Development</i></p>
@@ -111,9 +111,9 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
       </td>
       <td>
         <h3>Full-Stack Engineer at Next Level Media</h3>
-        <p><b>Westbury, New York (Remote)</b></p>
-        <p>Working as a Full-Stack Engineer, developing scalable web applications, ad tech systems, and interactive dashboard UIs.</p>
-        <p><i>Skills: React, Next.js, Node.js, PostgreSQL, GraphQL, Ad Tech</i></p>
+        <p><b>Westbury, New York (BD Branch)</b></p>
+        <p>Worked as a Full-Stack Engineer, mainly on the Google Ads Manager in marketing. Handled multiple ads in one form with proper validations — a bit challenging but rewarding.</p>
+        <p><i>Skills: React, Node.js, Express.js, Mongodb, Goggle apis</i></p>
       </td>
     </tr>
   </table>
