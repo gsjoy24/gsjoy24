@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Gour Chandra Saha
+  # Hi there, I'm Gour Chandra Saha! 👋
   
   <p><em>Full-Stack Web Developer from Bangladesh with a passion for creating elegant solutions</em></p>
 
@@ -32,6 +32,16 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+**Skill Levels:**
+```text
+React         ████████████████████████████████████████ 95%
+JavaScript    ███████████████████████████████████████  90%
+TypeScript    ████████████████████████████████████     85%
+Next.js       ████████████████████████████████████     85%
+HTML5/CSS3    ████████████████████████████████████████ 95%
+Redux         ███████████████████████████████████      80%
+```
 </details>
 
 <details open>
@@ -60,6 +70,16 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 </p>
+
+**Skill Levels:**
+```text
+Node.js       ████████████████████████████████████████ 95%
+Express.js    ███████████████████████████████████████  90%
+MongoDB       ████████████████████████████████████████ 95%
+PostgreSQL    ███████████████████████████████████      80%
+GraphQL       ████████████████████████████████████     85%
+Prisma        ████████████████████████████████████     85%
+```
 </details>
 
 <details open>
@@ -129,6 +149,18 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gsjoy24&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+## 📈 GitHub Profile 3D Contrib
+
+<div align="center">
+  <img src="https://github.com/gsjoy24/gsjoy24/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</div>
+
 ## 🏆 Achievements
 
 <p align="center">
@@ -137,32 +169,98 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
   </a>
 </p>
 
+### 💼 CodersRank Profile
+<div align="center">
+  <a href="https://profile.codersrank.io/user/gsjoy24" target="_blank">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gsjoy24&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" alt="CodersRank Summary"/>
+  </a>
+</div>
+
+### 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsjoy24&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
 </div>
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+_Blog posts will be automatically updated using GitHub Actions_
+<!-- BLOG-POST-LIST:END -->
+
+## ⚡ Recent Activity
+<!-- RECENT-ACTIVITY:START -->
+<!--START_SECTION:activity-->
+1. 🔨 Recently worked on enhancing GitHub profile
+2. 💪 Pushed commits to multiple repositories
+3. ⭐ Starred interesting open-source projects
+4. 🎯 Currently focusing on full-stack development
+<!--END_SECTION:activity-->
+<!-- RECENT-ACTIVITY:END -->
+
+## 📊 Latest GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/gsjoy24?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gsjoy24&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats"/>
+</div>
+
+## 💖 Support Me
+
+<div align="center">
+  <p>If you like my work and want to support me, consider buying me a coffee!</p>
+  
+  <a href="https://ko-fi.com/gsjoy24" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Buy Me A Coffee"/>
+  </a>
+  
+  <br><br>
+  
+  <a href="https://www.buymeacoffee.com/gsjoy24" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="50" alt="Buy Me A Coffee"/>
+  </a>
+  
+  <br><br>
+  
+  <p>⭐ Star my repositories if you find them useful!</p>
+</div>
+
 ## 🔗 Connect With Me
 
-<p align="center">
+<div align="center">
+  
+### 🌐 Professional Links
+<p>
   <a href="https://linkedin.com/in/goursahajoy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover:shadow-lg" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.goursahajoy.me">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:gour.joy24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+### 📱 Social Media
+<p>
   <a href="https://facebook.com/goursahajoy">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/goursahajoy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/goursahajoy">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
+</div>
 
 <div align="center">
   <p>Thanks for visiting my profile! Let's connect and build something amazing together.</p>
