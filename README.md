@@ -10,10 +10,6 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=gsjoy24&style=flat&color=blueviolet)](https://github.com/gsjoy24)
 </div>
 
-## 👨‍💻 About Me
-
-I'm a passionate full-stack developer focused on creating responsive and user-friendly web applications. With expertise spanning both frontend and backend technologies, I build robust solutions that combine clean code with intuitive design.
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
 </div>
@@ -112,7 +108,7 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
       <td>
         <h3>Full-Stack Engineer at Next Level Media</h3>
         <p><b>Westbury, New York (BD Branch)</b></p>
-        <p>Worked as a Full-Stack Engineer, mainly on the Google Ads Manager in marketing. Handled multiple ads in one form with proper validations — a bit challenging but rewarding.</p>
+        <p>Working as a Full-Stack Engineer, mainly on the Google Ads Manager in marketing. Handled multiple ads in one form with proper validations — a bit challenging but rewarding.</p>
         <p><i>Skills: React, Node.js, Express.js, Mongodb, Goggle apis</i></p>
       </td>
     </tr>
@@ -131,14 +127,15 @@ I'm a passionate full-stack developer focused on creating responsive and user-fr
 
 ## 🏆 Achievements
 
-<p align="center">
-  <a href="https://gitroll.io/profile/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/u3MXTX33dxiOAsHdpt2XTEwaAdnH3" width="400" alt="GitRoll Profile Badge"/>
-  </a>
-</p>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsjoy24&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
+</div>
+
+## 💝 Support Me
+<div align="center">
+  <a href="coff.ee/goursahajoy">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
 </div>
 
 ## 🔗 Connect With Me
