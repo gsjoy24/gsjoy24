@@ -4,7 +4,7 @@
   
   <p><em>Full-Stack Web Developer from Bangladesh with a passion for creating elegant solutions</em></p>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-goursahajoy.me-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.goursahajoy.me)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-joy.vertoone.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://joy.vertoone.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-goursahajoy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/goursahajoy)
   [![Email](https://img.shields.io/badge/Email-gour.joy24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gour.joy24@gmail.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=gsjoy24&style=flat&color=blueviolet)](https://github.com/gsjoy24)
@@ -160,7 +160,7 @@
   <a href="https://linkedin.com/in/goursahajoy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.goursahajoy.me">
+  <a href="https://joy.vertoone.com/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:gour.joy24@gmail.com">
