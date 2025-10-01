@@ -149,7 +149,7 @@
 
 ## 💝 Support Me
 <div align="center">
-  <a href="coff.ee/goursahajoy">
+  <a href="https://buymeacoffee.com/goursahajoy">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
