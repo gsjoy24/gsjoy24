@@ -4,7 +4,7 @@
   
   <p><em>Full-Stack Web Developer from Bangladesh with a passion for creating elegant solutions</em></p>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-joy.vertoone.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://joy.vertoone.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-goursahajoy.vercel.app-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://goursahajoy.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-goursahajoy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/goursahajoy)
   [![Email](https://img.shields.io/badge/Email-gour.joy24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gour.joy24@gmail.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=gsjoy24&style=flat&color=blueviolet)](https://github.com/gsjoy24)
