@@ -7,11 +7,11 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-goursahajoy.vercel.app-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://goursahajoy.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-goursahajoy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/goursahajoy)
   [![Email](https://img.shields.io/badge/Email-gour.joy24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gour.joy24@gmail.com)
-  [![Profile Views](https://komarev.com/ghpvc/?username=gsjoy24&style=flat&color=blueviolet)](https://github.com/gsjoy24)
+  [![Profile Views](https://komarev.com/ghpvc/?username=goursahajoy&style=flat&color=blueviolet)](https://github.com/goursahajoy)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsjoy24&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goursahajoy&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -135,16 +135,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gsjoy24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsjoy24&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Gour's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjoy24&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+  <a href="https://github.com/goursahajoy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goursahajoy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Gour's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goursahajoy&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
   </a>
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsjoy24&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goursahajoy&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
 </div>
 
 ## 💝 Support Me
