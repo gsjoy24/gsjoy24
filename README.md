@@ -132,15 +132,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goursahajoy&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goursahajoy&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/goursahajoy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goursahajoy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Gour's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goursahajoy&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
-  </a>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=goursahajoy&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=goursahajoy&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=goursahajoy&langs_count=4&theme=tokyonight)](https://wakatime.com/@goursahajoy)
 
 ## 🏆 Achievements
 
