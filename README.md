@@ -91,18 +91,9 @@
   <table border="0">
     <tr>
       <td width="120" align="center">
-        <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      </td>
-      <td>
-        <h3>Coding Journey Begins</h3>
-        <p>Started learning web development fundamentals, focusing on HTML, CSS, and JavaScript. Built several personal projects to strengthen my skills and explore the world of development.</p>
-        <p><i>Skills: HTML, CSS, JavaScript, Responsive Design</i></p>
-      </td>
-    </tr>
-    <tr><td colspan="2"><div align="center">⬇️</div></td></tr>
-    <tr>
-      <td width="120" align="center">
-        <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+        <a href="https://www.linkedin.com/company/aicofficial/">
+          <img width="100" height="100" src="https://i.ibb.co.com/WN0Crsgv/aic.jpg"/>
+        </a>
       </td>
       <td>
         <h3>Full-Stack Developer at AIC</h3>
@@ -116,7 +107,9 @@
       <td width="120" align="center">
         <img src="https://img.shields.io/badge/CURRENT-333333?style=for-the-badge" alt="CURRENT"/>
         <br><br>
-        <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+        <a href="https://www.linkedin.com/company/mymanagercrm/">
+          <img width="100" height="100" src="https://i.ibb.co.com/qLwrQD0B/mymanager.jpg"/>
+        </a>
       </td>
       <td>
         <h3>Full-Stack Engineer at Next Level Media</h3>
@@ -137,8 +130,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=goursahajoy&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=goursahajoy&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=github_dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=goursahajoy&langs_count=4&theme=tokyonight)](https://wakatime.com/@goursahajoy)
-
-## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goursahajoy&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
