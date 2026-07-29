@@ -10,10 +10,6 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=goursahajoy&style=flat&color=blueviolet)](https://github.com/goursahajoy)
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goursahajoy&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
-</div>
-
 ## 🛠️ Tech Stack
 
 <details open>
@@ -134,6 +130,10 @@
 <!--END_SECTION:timeline-->
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goursahajoy&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <a href="https://github.com/goursahajoy">
