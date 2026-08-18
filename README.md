@@ -114,7 +114,7 @@
       <td>
         <h3>Full-Stack Engineer at Next Level Media</h3>
         <p><b>Westbury, New York (BD Branch)</b></p>
-        <p>Working as a Full-Stack Engineer, mainly on the Google Ads Manager in marketing. Built a dynamic ad management form handling multiple entries with validation logic — challenging, but a rewarding experience.</p>
+        <p>Working as a Full-Stack Engineer, contributing on the Google Ads Manager in marketing, business tools, service and other core moduls. Built a dynamic ad management form handling multiple entries with validation logic — challenging, but a rewarding experience.</p>
         <p><i>Skills: React, Node.js, Express.js, Mongodb, Goggle apis</i></p>
       </td>
     </tr>
